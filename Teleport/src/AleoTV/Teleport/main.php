@@ -1,3 +1,0 @@
-<?php
-
-namespace AleoTV\Teleport;

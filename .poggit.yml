@@ -1,8 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AleoTV/Teleport/Teleport
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AleoTV/Teleport/
 build-by-default: true
 branches:
 - master
 projects:
   Teleport:
-    path: Teleport/
+    path: Teleport/AleoTV
 ...
